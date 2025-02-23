@@ -1,0 +1,16 @@
+*SQL Data Cleaning
+*** Overview
+This project cleans and formats a messy dataset using SQL.
+
+*** Tools Used
+- MySQL
+- Data Cleaning Queries
+  
+*** Key Tasks
+- Remove duplicate rows
+- Fixed incorrect data formats
+- Standardized text values
+  
+*** Results
+- Improved data accuracy
+- Ready for business analysis
